@@ -13,6 +13,7 @@ Un blog increible para el curso de Git y GitHub de Platzi
 - Las personalidades múltiples de Fredy
 - Creado por el increíble Platzi Team
 - Incluye ejemplos en windows, linux y mac
+- Disponible para todas las edades
 
 
 Y como un amable recordatorio: **este REAMDE es un chiste**. Diseñado para el ejemplo. Si llegas acá, no te lo tomes en serio y mejor ve a [**ver el curso**](https://platzi.com/clases/1557-git-github/19977-readmemd-es-una-excelente-practica/) 
