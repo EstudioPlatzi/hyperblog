@@ -1,3 +1,5 @@
+Ahora vamos a ver si los mensajes de los commits son obligatorios u opcionales, esto, por medio de hacer un commit sin un mensaje. 
+
 Esta es la historia de Fredy Vega.
 
 Fredy Vega tiene 32 años y nació en Colombia
